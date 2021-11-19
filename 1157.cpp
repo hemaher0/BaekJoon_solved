@@ -49,4 +49,5 @@ int main()
 	{
 		cout << (char)(pivot + 'A');
 	}
+	return 0;
 }
