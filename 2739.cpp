@@ -8,4 +8,5 @@ int main()
 	{
 		cout << N << " * " << i<<" = "<<N*i<<endl;
 	}
+	return 0;
 }
