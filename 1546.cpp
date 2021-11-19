@@ -24,4 +24,5 @@ int main()
 	}
 	float average = total / N;
 	cout << average;
+	return 0;
 }
