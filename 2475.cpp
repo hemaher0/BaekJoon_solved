@@ -9,4 +9,5 @@ int main()
 		serial_number[5] = (serial_number[i] * serial_number[i] + serial_number[5])%10;
 	}
 	cout << serial_number[5];
+	return 0;
 }
